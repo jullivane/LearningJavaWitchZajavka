@@ -38,33 +38,15 @@ nowych tablic oprócz tej, która zawiera dane wejściowe.
 ### Week 03, day 017, exercises about loops
 1. Napisz program liczący silnię. Spróbuj dokonać takiej implementacji przy wykorzystaniu oddzielnie pętli oraz oddzielnie rekurencji.
 2. Napisz program, który określi czy podane słowo jest palindromem.
-3. Napisz program, który na ekranie wydrukuje choinkę z podanych przez Ciebie znaków przy czym parametrem wejściowym jest ilość znaków w podstawie. Do tego, żeby to wyglądało jak choinka, to w każdym kolejnym rzędzie idąc z dołu do góry musi być o 2 znaki mniej niż w rzędzie poprzednim. Do tego załóż, że jak w podstawie jest liczba parzysta, to na samej górze zostają 2 znaki, a jak nieparzysta to jeden. Przykład:
-
-    \#          ## 
-   \###        ####
-  \#####      ######
- \#######    ########
-\#########  ##########
+3. Napisz program, który na ekranie wydrukuje choinkę z podanych przez Ciebie znaków przy czym parametrem wejściowym jest ilość znaków w podstawie. Do tego, żeby to wyglądało jak choinka, to w każdym kolejnym rzędzie idąc z dołu do góry musi być o 2 znaki mniej niż w rzędzie poprzednim. Do tego załóż, że jak w podstawie jest liczba parzysta, to na samej górze zostają 2 znaki, a jak nieparzysta to jeden. Przykład:<br/>
+![](https://github.com/jullivane/LearningJavaWithZajavka/blob/main/img/task_w03_d10_e03_tree_from_hashes.PNG)
 
 4. Rafał ma 6 kolorowych mazaków (czerwony, zielony, niebieski, czarny, żółty i brązowy) i rysuje nimi w podanej kolejności kolorów 100 kresek. Wypisz wszystkie kolory w kolejności odpowiadające rysowanym kreskom i zobacz jaki kolor będzie ostatni.
 5. Napisz program, który wydrukuje wszystkie liczby pierwsze od 2 do 10000.
 6. Napisz program, który na ekranie będzie w stanie wydrukować następujący ciąg znaków 39,11,41,8,43,5,45,2,47,-1,49,-4,51,-7,53,-10,55,-13,57,-16. Napisz ten program
 w taki sposób, żebyś był w stanie podać długość drukowanego ciągu, np 1000. Zauważ, że na końcu ciągu nie ma przecinka, są tylko w środku ;)
 7. Napisz program drukujący na ekranie ciąg Fibonacciego. Wydrukuj pierwsze 20 znaków ciągu. Znaki ciągu możesz oddzielić spacją.
-8. Napisz program drukujący ciąg znaków jak poniżej. Napisz to tak, żeby liczenie doszło do 999. Postaraj się wykorzystać pętle zagnieżdżone, tzn. nie pisz czegoś takiego: System.out.println("####);<br/>111<br/>\####<br/>
- \####
- \####
- \####
- 222
- \####
- \####
- \####
- \####
- 333
- \####
- \####
- \####
- \####
+8. Napisz program drukujący ciąg znaków jak poniżej. Napisz to tak, żeby liczenie doszło do 999. Postaraj się wykorzystać pętle zagnieżdżone, tzn. nie pisz czegoś takiego: System.out.println("####);<br/>111<br/>\####<br/>\####<br/>\####<br/>\####<br/>222<br/>\####<br/>\####<br/>\####<br/>\####<br/>333<br/>\####<br/>\####<br/>\####<br/>\####
 
 ### Week 03, day 018, exercises about arrays
 1. Napisz program, który odwróci zawartość Stringa tyłem do przodu.
