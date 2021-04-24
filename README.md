@@ -1,5 +1,5 @@
 # PodstawyJavyZajavka
-Zadania z 12-tygodniowego kursu Javy dla początkujących: ![zajavka.pl](http://zajavka.pl)
+Zadania z 12-tygodniowego kursu Javy dla początkujących: [zajavka.pl](http://zajavka.pl)
 Zadania podzielone są na tygodnie i dni.
 
 ## Tydzień 01
