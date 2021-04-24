@@ -41,13 +41,9 @@ nowych tablic oprócz tej, która zawiera dane wejściowe.
 3. Napisz program, który na ekranie wydrukuje choinkę z podanych przez Ciebie znaków przy czym parametrem wejściowym jest ilość znaków w podstawie. Do tego, żeby to wyglądało jak choinka, to w każdym kolejnym rzędzie idąc z dołu do góry musi być o 2 znaki mniej niż w rzędzie poprzednim. Do tego załóż, że jak w podstawie jest liczba parzysta, to na samej górze zostają 2 znaki, a jak nieparzysta to jeden. Przykład:
 
     \#          ## 
-    
    \###        ####
-   
   \#####      ######
-  
  \#######    ########
- 
 \#########  ##########
 
 4. Rafał ma 6 kolorowych mazaków (czerwony, zielony, niebieski, czarny, żółty i brązowy) i rysuje nimi w podanej kolejności kolorów 100 kresek. Wypisz wszystkie kolory w kolejności odpowiadające rysowanym kreskom i zobacz jaki kolor będzie ostatni.
