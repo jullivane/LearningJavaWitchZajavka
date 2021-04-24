@@ -52,36 +52,21 @@ nowych tablic oprócz tej, która zawiera dane wejściowe.
 w taki sposób, żebyś był w stanie podać długość drukowanego ciągu, np 1000. Zauważ, że na końcu ciągu nie ma przecinka, są tylko w środku ;)
 7. Napisz program drukujący na ekranie ciąg Fibonacciego. Wydrukuj pierwsze 20 znaków ciągu. Znaki ciągu możesz oddzielić spacją.
 8. Napisz program drukujący ciąg znaków jak poniżej. Napisz to tak, żeby liczenie doszło do 999. Postaraj się wykorzystać pętle zagnieżdżone, tzn. nie pisz czegoś takiego: System.out.println("####);
-
-111
-
-\####
-
-\####
-
-\####
-
-\####
-
-222
-
-\####
-
-\####
-
-\####
-
-\####
-
-333
-
-\####
-
-\####
-
-\####
-
-\####
+ 111
+ \####
+ \####
+ \####
+ \####
+ 222
+ \####
+ \####
+ \####
+ \####
+ 333
+ \####
+ \####
+ \####
+ \####
 
 ### Week 03, day 018, exercises about arrays
 1. Napisz program, który odwróci zawartość Stringa tyłem do przodu.
