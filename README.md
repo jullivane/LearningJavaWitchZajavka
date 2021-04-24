@@ -39,7 +39,7 @@ nowych tablic oprócz tej, która zawiera dane wejściowe.
 1. Napisz program liczący silnię. Spróbuj dokonać takiej implementacji przy wykorzystaniu oddzielnie pętli oraz oddzielnie rekurencji.
 2. Napisz program, który określi czy podane słowo jest palindromem.
 3. Napisz program, który na ekranie wydrukuje choinkę z podanych przez Ciebie znaków przy czym parametrem wejściowym jest ilość znaków w podstawie. Do tego, żeby to wyglądało jak choinka, to w każdym kolejnym rzędzie idąc z dołu do góry musi być o 2 znaki mniej niż w rzędzie poprzednim. Do tego załóż, że jak w podstawie jest liczba parzysta, to na samej górze zostają 2 znaki, a jak nieparzysta to jeden. Przykład:<br/>
-![](https://github.com/jullivane/LearningJavaWithZajavka/blob/main/img/task_w03_d10_e03_tree_from_hashes.PNG)
+![](https://github.com/jullivane/LearningJavaWithZajavka/blob/main/img/task_w03_d10_e03_tree_from_hashes_small.PNG)
 
 4. Rafał ma 6 kolorowych mazaków (czerwony, zielony, niebieski, czarny, żółty i brązowy) i rysuje nimi w podanej kolejności kolorów 100 kresek. Wypisz wszystkie kolory w kolejności odpowiadające rysowanym kreskom i zobacz jaki kolor będzie ostatni.
 5. Napisz program, który wydrukuje wszystkie liczby pierwsze od 2 do 10000.
