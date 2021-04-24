@@ -51,9 +51,7 @@ nowych tablic oprócz tej, która zawiera dane wejściowe.
 6. Napisz program, który na ekranie będzie w stanie wydrukować następujący ciąg znaków 39,11,41,8,43,5,45,2,47,-1,49,-4,51,-7,53,-10,55,-13,57,-16. Napisz ten program
 w taki sposób, żebyś był w stanie podać długość drukowanego ciągu, np 1000. Zauważ, że na końcu ciągu nie ma przecinka, są tylko w środku ;)
 7. Napisz program drukujący na ekranie ciąg Fibonacciego. Wydrukuj pierwsze 20 znaków ciągu. Znaki ciągu możesz oddzielić spacją.
-8. Napisz program drukujący ciąg znaków jak poniżej. Napisz to tak, żeby liczenie doszło do 999. Postaraj się wykorzystać pętle zagnieżdżone, tzn. nie pisz czegoś takiego: System.out.println("####);
- 111
- \####
+8. Napisz program drukujący ciąg znaków jak poniżej. Napisz to tak, żeby liczenie doszło do 999. Postaraj się wykorzystać pętle zagnieżdżone, tzn. nie pisz czegoś takiego: System.out.println("####);<br/>111<br/>\####<br/>
  \####
  \####
  \####
