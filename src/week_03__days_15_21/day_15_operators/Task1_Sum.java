@@ -1,7 +1,7 @@
 package week_03__days_15_21.day_15_operators;
 
 // Napisz metodę, która przyjmuje 2 liczby double, wydrukuje ich sumę, różnicę, iloczyn oraz iloraz.
-public class Task1_sum {
+public class Task1_Sum {
 
     public static void add_sub_mult_div(double a, double b) {
         System.out.format("suma\t%f + %f = %f\n", a, b, a + b);
