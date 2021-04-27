@@ -1,6 +1,6 @@
 package week_02__days_08_14;
 
-public class Task2 {
+public class Task2_StringsConcatenation {
 // 2. Napisz program, który sklei ze sobą 5 dowolnych stringów na 2 pokazane różne sposoby i wydrukuje rezultat na ekranie.
 
     public static void main(String[] args) {
