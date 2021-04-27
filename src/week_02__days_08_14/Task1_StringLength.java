@@ -1,6 +1,6 @@
 package week_02__days_08_14;
 
-public class Task1 {
+public class Task1_StringLength {
 // 1. Napisz program, który dla podanego Stringa przypisze wartość jego długości do zmiennej, następnie wyświetli jego długość na ekranie.
 
     public static void main(String[] args) {
